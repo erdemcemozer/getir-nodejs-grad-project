@@ -31,7 +31,7 @@ For testing on your local machine just run:
 npm test
 ```
 
-## What did i used as frameworks and libraries ?
+## What i used as frameworks and libraries ?
 
 - express
 - mongoose
